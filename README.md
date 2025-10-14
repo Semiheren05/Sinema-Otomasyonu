@@ -3,6 +3,7 @@
 Kapsamlı bir film salonu işletim ve biletleme sistemi. Gösterim planlama, koltuk seçimi, çevrim‑içi/gişe satış, promosyonlar, stok (büfe), sadakat ve raporlama modüllerini içerir.
 
 Özellikler
+
 🎟️ Biletleme: Seans seçimi, gerçek zamanlı koltuk bloklama, QR/e‑bilet.
 
 🗓️ Planlama: Salon takvimi, film/format (2D/3D/IMAX/OV/TR dublaj) yönetimi.
@@ -18,7 +19,3 @@ Kapsamlı bir film salonu işletim ve biletleme sistemi. Gösterim planlama, kol
 👥 Roller: Yönetici, gişe, büfe, temizlik/teknik, müşteri.
 
 📊 Raporlama: Hasılat, doluluk, ürün kırılımı, iptal/iade.
-
-🌐 Çoklu Dil/Para Birimi: TR/EN, KDV oranları, çoklu şube desteği.
-
-🔒 Güvenlik: RBAC, 2FA (opsiyonel), denetim izleri.
