@@ -1,0 +1,529 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|c:\\users\\sametlp\\onedrive\\masa\u00FCst\u00FC\\sinemaproje\\moviehub.cs\\moviehub.cs\\controlyonetliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:controlyonetliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\formbiletolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:formbiletolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\formfilmdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:formfilmdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\formacilisekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:formacilisekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\formanaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:formanaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\formfilmkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:formfilmkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\formfilml\u0130ste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:formfilml\u0130ste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\formoyuncu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:formoyuncu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\formoyunculistecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:formoyunculistecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\formsalon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:formsalon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\formyonetmenkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:formyonetmenkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\formyonetmenliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:formyonetmenliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\misirsatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:misirsatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|c:\\users\\sametlp\\onedrive\\masa\u00FCst\u00FC\\sinemaproje\\moviehub.cs\\moviehub.cs\\formanaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:formanaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\kay\u0131tekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:kay\u0131tekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|c:\\users\\sametlp\\onedrive\\masa\u00FCst\u00FC\\sinemaproje\\moviehub.cs\\moviehub.cs\\formyonetmenliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:formyonetmenliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|c:\\users\\sametlp\\onedrive\\masa\u00FCst\u00FC\\sinemaproje\\moviehub.cs\\moviehub.cs\\misirsatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:misirsatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\giri\u015Fekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:giri\u015Fekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|c:\\users\\sametlp\\onedrive\\masa\u00FCst\u00FC\\sinemaproje\\moviehub.cs\\moviehub.cs\\formfilmkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:formfilmkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\useryonetmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:useryonetmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\useroyuncu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:useroyuncu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\userfilmliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:userfilmliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\usercontrolsalonlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:usercontrolsalonlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\usercontroloyuncu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:usercontroloyuncu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|c:\\users\\sametlp\\onedrive\\masa\u00FCst\u00FC\\sinemaproje\\moviehub.cs\\moviehub.cs\\usercontrolsalonlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:usercontrolsalonlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|c:\\users\\sametlp\\onedrive\\masa\u00FCst\u00FC\\sinemaproje\\moviehub.cs\\moviehub.cs\\formsalon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:formsalon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|c:\\users\\sametlp\\onedrive\\masa\u00FCst\u00FC\\sinemaproje\\moviehub.cs\\moviehub.cs\\formoyuncu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:formoyuncu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|c:\\users\\sametlp\\onedrive\\masa\u00FCst\u00FC\\sinemaproje\\moviehub.cs\\moviehub.cs\\formbiletolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:formbiletolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|c:\\users\\sametlp\\onedrive\\masa\u00FCst\u00FC\\sinemaproje\\moviehub.cs\\moviehub.cs\\formoyunculistecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:formoyunculistecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|c:\\users\\sametlp\\onedrive\\masa\u00FCst\u00FC\\sinemaproje\\moviehub.cs\\moviehub.cs\\kay\u0131tekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:kay\u0131tekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|c:\\users\\sametlp\\onedrive\\masa\u00FCst\u00FC\\sinemaproje\\moviehub.cs\\moviehub.cs\\formacilisekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:formacilisekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|c:\\users\\sametlp\\onedrive\\masa\u00FCst\u00FC\\sinemaproje\\moviehub.cs\\moviehub.cs\\formfilml\u0130ste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:formfilml\u0130ste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|c:\\users\\sametlp\\onedrive\\masa\u00FCst\u00FC\\sinemaproje\\moviehub.cs\\moviehub.cs\\giri\u015Fekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD4BD70-4949-49C8-B5C8-71917007E96A}|MovieHub.cs.csproj|solutionrelative:giri\u015Fekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormBiletOlustur.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormBiletOlustur.cs",
+              "RelativeDocumentMoniker": "FormBiletOlustur.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormBiletOlustur.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FormBiletOlustur.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T22:50:48.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormAnaEkran.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormAnaEkran.cs",
+              "RelativeDocumentMoniker": "FormAnaEkran.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormAnaEkran.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FormAnaEkran.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:49:49.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormAcilisEkran.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormAcilisEkran.cs",
+              "RelativeDocumentMoniker": "FormAcilisEkran.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormAcilisEkran.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FormAcilisEkran.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:49:32.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControlYonetListe.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\ControlYonetListe.cs",
+              "RelativeDocumentMoniker": "ControlYonetListe.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\ControlYonetListe.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ControlYonetListe.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:50:16.294Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormFilmDetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormFilmDetay.cs",
+              "RelativeDocumentMoniker": "FormFilmDetay.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormFilmDetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FormFilmDetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:49:53.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormFilmKayit.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormFilmKayit.cs",
+              "RelativeDocumentMoniker": "FormFilmKayit.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormFilmKayit.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FormFilmKayit.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:49:54.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormFilmL\u0130ste.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormFilmL\u0130ste.cs",
+              "RelativeDocumentMoniker": "FormFilmL\u0130ste.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormFilmL\u0130ste.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FormFilmL\u0130ste.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:49:55.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormOyuncu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormOyuncu.cs",
+              "RelativeDocumentMoniker": "FormOyuncu.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormOyuncu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FormOyuncu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:49:57.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormOyuncuListecs.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormOyuncuListecs.cs",
+              "RelativeDocumentMoniker": "FormOyuncuListecs.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormOyuncuListecs.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FormOyuncuListecs.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:50:00.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormSalon.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormSalon.cs",
+              "RelativeDocumentMoniker": "FormSalon.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormSalon.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FormSalon.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:07:35.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormYonetmenKayit.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormYonetmenKayit.cs",
+              "RelativeDocumentMoniker": "FormYonetmenKayit.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormYonetmenKayit.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FormYonetmenKayit.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:07:31.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormYonetmenListe.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormYonetmenListe.cs",
+              "RelativeDocumentMoniker": "FormYonetmenListe.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormYonetmenListe.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FormYonetmenListe.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:50:05.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "misirsatis.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\misirsatis.cs",
+              "RelativeDocumentMoniker": "misirsatis.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\misirsatis.cs [Tasar\u0131m]",
+              "RelativeToolTip": "misirsatis.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T14:41:44.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormAnaEkran.cs",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormAnaEkran.cs",
+              "RelativeDocumentMoniker": "FormAnaEkran.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormAnaEkran.cs",
+              "RelativeToolTip": "FormAnaEkran.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAApwEsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T14:37:54.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormYonetmenListe.cs",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormYonetmenListe.cs",
+              "RelativeDocumentMoniker": "FormYonetmenListe.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormYonetmenListe.cs",
+              "RelativeToolTip": "FormYonetmenListe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAnwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:36:57.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Kay\u0131tekran.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\Kay\u0131tekran.cs",
+              "RelativeDocumentMoniker": "Kay\u0131tekran.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\Kay\u0131tekran.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kay\u0131tekran.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:52:22.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "misirsatis.cs",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\misirsatis.cs",
+              "RelativeDocumentMoniker": "misirsatis.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\misirsatis.cs",
+              "RelativeToolTip": "misirsatis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T14:42:56.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Giri\u015FEkran.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\Giri\u015FEkran.cs",
+              "RelativeDocumentMoniker": "Giri\u015FEkran.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\Giri\u015FEkran.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Giri\u015FEkran.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:53:00.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormFilmKayit.cs",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormFilmKayit.cs",
+              "RelativeDocumentMoniker": "FormFilmKayit.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormFilmKayit.cs",
+              "RelativeToolTip": "FormFilmKayit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T12:19:19.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserYonetmen.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\UserYonetmen.cs",
+              "RelativeDocumentMoniker": "UserYonetmen.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\UserYonetmen.cs [Tasar\u0131m]",
+              "RelativeToolTip": "UserYonetmen.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:50:13.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserOyuncu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\UserOyuncu.cs",
+              "RelativeDocumentMoniker": "UserOyuncu.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\UserOyuncu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "UserOyuncu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:50:09.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserFilmListe.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\UserFilmListe.cs",
+              "RelativeDocumentMoniker": "UserFilmListe.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\UserFilmListe.cs [Tasar\u0131m]",
+              "RelativeToolTip": "UserFilmListe.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:50:10.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserControlsalonlist.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\UserControlsalonlist.cs",
+              "RelativeDocumentMoniker": "UserControlsalonlist.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\UserControlsalonlist.cs [Tasar\u0131m]",
+              "RelativeToolTip": "UserControlsalonlist.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:50:08.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserControlOyuncu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\UserControlOyuncu.cs",
+              "RelativeDocumentMoniker": "UserControlOyuncu.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\UserControlOyuncu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "UserControlOyuncu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:50:06.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserControlsalonlist.cs",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\UserControlsalonlist.cs",
+              "RelativeDocumentMoniker": "UserControlsalonlist.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\UserControlsalonlist.cs",
+              "RelativeToolTip": "UserControlsalonlist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:23:41.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormSalon.cs",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormSalon.cs",
+              "RelativeDocumentMoniker": "FormSalon.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormSalon.cs",
+              "RelativeToolTip": "FormSalon.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAIAwwFYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:20:49.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormOyuncu.cs",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormOyuncu.cs",
+              "RelativeDocumentMoniker": "FormOyuncu.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormOyuncu.cs",
+              "RelativeToolTip": "FormOyuncu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:20:52.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormBiletOlustur.cs",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormBiletOlustur.cs",
+              "RelativeDocumentMoniker": "FormBiletOlustur.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormBiletOlustur.cs",
+              "RelativeToolTip": "FormBiletOlustur.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAewAcBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:48:27.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormOyuncuListecs.cs",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormOyuncuListecs.cs",
+              "RelativeDocumentMoniker": "FormOyuncuListecs.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormOyuncuListecs.cs",
+              "RelativeToolTip": "FormOyuncuListecs.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAnwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T12:01:10.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Kay\u0131tekran.cs",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\Kay\u0131tekran.cs",
+              "RelativeDocumentMoniker": "Kay\u0131tekran.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\Kay\u0131tekran.cs",
+              "RelativeToolTip": "Kay\u0131tekran.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAcwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T16:07:43.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormAcilisEkran.cs",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormAcilisEkran.cs",
+              "RelativeDocumentMoniker": "FormAcilisEkran.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormAcilisEkran.cs",
+              "RelativeToolTip": "FormAcilisEkran.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAIA5wGwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:51:04.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormFilmL\u0130ste.cs",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormFilmL\u0130ste.cs",
+              "RelativeDocumentMoniker": "FormFilmL\u0130ste.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\FormFilmL\u0130ste.cs",
+              "RelativeToolTip": "FormFilmL\u0130ste.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAewEUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:26:15.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Giri\u015FEkran.cs",
+              "DocumentMoniker": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\Giri\u015FEkran.cs",
+              "RelativeDocumentMoniker": "Giri\u015FEkran.cs",
+              "ToolTip": "C:\\Users\\SameTLp\\OneDrive\\Masa\u00FCst\u00FC\\sinemaProje\\MovieHub.cs\\MovieHub.cs\\Giri\u015FEkran.cs",
+              "RelativeToolTip": "Giri\u015FEkran.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowD4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:53:56.432Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
